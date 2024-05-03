@@ -115,5 +115,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Atish Dixit is a seasoned researcher specializing in reinforcement learning, mathematical modeling, and simulations. With a strong background in applied mathematics and statistics along with extensive experience in academia and industry, he brings expertise in leveraging AI and mathematical techniques to solve complex problems.
 {style="text-align: justify;"}
