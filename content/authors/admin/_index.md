@@ -40,7 +40,7 @@ education:
     - course: PhD in Deep Reinforcement Learning
       institution: Heriot Watt University
       year: 2023
-    - course: MTech in Mathematical Modelling and Simulation (major Machine Learning)
+    - course: MTech in Mathematical Modelling
       institution: University of Pune
       year: 2017
     - course: BEng in Mechanical Engineering
