@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: PhD in Deep Reinforcement Learning
-      institution: Heriot-Watt University
+      institution: Heriot Watt University
       year: 2023
     - course: MTech in Mathematical Modelling and Simulation (major: Machine Learning)
       institution: University of Pune
