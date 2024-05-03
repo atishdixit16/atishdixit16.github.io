@@ -71,7 +71,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Boxing
         description: ''
         percent: 60
         icon: person-hiking
