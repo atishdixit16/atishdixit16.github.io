@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "A Multilevel Reinforcement Learning Framework for PDE-based Control"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-10-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Reinforcement learning (RL) is a promising method to solve control problems. However, model-free RL algorithms are sample inefficient and require thousands if not millions of samples to learn optimal control policies. A major source of computational cost in RL corresponds to the transition function, which is dictated by the model dynamics. This is especially problematic when model dynamics is represented with coupled PDEs. In such cases, the transition function often involves solving a large-scale discretization of the said PDEs. We propose a multilevel RL framework in order to ease this cost by exploiting sublevel models that correspond to coarser scale discretization (i.e. multilevel models). This is done by formulating an approximate multilevel Monte Carlo estimate of the objective function of the policy and / or value network instead of Monte Carlo estimates, as done in the classical framework. As a demonstration of this framework, we present a multilevel version of the proximal policy optimization (PPO) algorithm. Here, the level refers to the grid fidelity of the chosen simulation-based environment. We provide two examples of simulation-based environments that employ stochastic PDEs that are solved using finite-volume discretization. For the case studies presented, we observed substantial computational savings using multilevel PPO compared to its classical counterpart.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We introduce a multilevel reinforcement learning framework to reduce computational costs associated with model dynamics represented by coupled PDEs, offering significant savings compared to traditional methods. By leveraging sublevel models and an approximate multilevel Monte Carlo estimate, our approach demonstrates improved efficiency in solving control problems with stochastic PDE-based environments.
 
 tags:
 - Source Themes
@@ -29,8 +29,8 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://arxiv.org/pdf/2210.08400
+url_code: 'https://github.com/atishdixit16/stable-baselines3/tree/d60610b5709ea7910bdad6b52b4347df6bded6ec'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
