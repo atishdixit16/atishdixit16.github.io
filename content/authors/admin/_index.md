@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Atish Dixit
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
