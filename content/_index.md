@@ -136,7 +136,7 @@ sections:
           date_start: '2021-01-25'
           description: ''
           # icon: coursera
-          company_logo: Heriot-Watt_University_logo
+          icon: Heriot-Watt_University_logo
           organization: Heriot-Watt University
           organization_url: https://www.coursera.org
           title: Novel research work in AI application to on-field reservoir management 
