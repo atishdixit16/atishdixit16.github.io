@@ -283,6 +283,9 @@ sections:
       office_hours:
         - 'Monday to Friday 09:00 to 17:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '55.945466'
+        longitude: '-3.190372'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
