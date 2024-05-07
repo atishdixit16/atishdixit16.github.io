@@ -72,9 +72,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Research in multi-Agent robotics learning
-              * Building deep reinforcement learning approaches
-              * State-of-the-art research development in the field
+              * Conducted advanced research in multi-agent robotics learning
+              * Designed and implemented cutting-edge deep reinforcement learning methodologies
         - title: PhD researcher
           company: Heriot-Watt University
           company_url: 'https://www.hw.ac.uk/'
