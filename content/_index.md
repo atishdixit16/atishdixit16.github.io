@@ -217,7 +217,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Artwork
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
