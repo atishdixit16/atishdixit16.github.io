@@ -62,27 +62,65 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Founder
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Associate
+          company: University of Edinburgh
+          company_url: 'https://agents.inf.ed.ac.uk/'
+          company_logo: University_of_Edinburgh_logo
+          location: Edinburgh, UK
+          date_start: '2023-01-11'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Research in multi-Agent robotics learning
+              * Building deep reinforcement learning approaches
+              * State-of-the-art research development in the field
+        - title: PhD researcher
+          company: Heriot-Watt University
+          company_url: 'https://www.hw.ac.uk/'
+          company_logo: Heriot-Watt_University_logo
+          location: Edinburgh, UK
+          date_start: '2018-11-01'
+          date_end: '2023-03-31'
+          description: Building deep reinforcemnt learning research methods to solve well control problem in reservoir management
+        - title: Computational Engineer
+          company: ExxonMobil
+          company_url: 'https://corporate.exxonmobil.com/'
+          company_logo: ExxonMobil_logo
+          location: Texas, US / Bangalore, India
+          date_start: '2017-03-01'
+          date_end: '2018-09-01'
+          description: |2-
+              Responsibilities include:
+
+              * Mathematical modelling and back-end development of on-field applications
+              * Analysis and process recommendation for on-field drilling process
+              * Part of agile software development for various reservoir management tools
+        - title: Research Fellow
+          company: Indian Institute of Technologies, Madras
+          company_url: 'https://www.iitm.ac.in/'
+          company_logo: IIT_Madras_Logo
+          location: Madras, India
+          date_start: '2016-05-01'
+          date_end: '2016-07-31'
+          description: |2-
+              Responsibilities include:
+
+              * Engaged in research and development within the domain of Graph Theory
+              * Formulated a C++ object-oriented design to model graphs and implement the Christofides algorithm
+        - title: Engineering Analyst
+          company: Tata Technologies
+          company_url: 'https://www.tatatechnologies.com/en'
+          company_logo: Tata_logo
+          location: Pune, India
+          date_start: '2012-07-02'
+          date_end: '2015-08-01'
+          description: |2-
+              Responsibilities include:
+
+              * Design recommendation and analysis of automobile system architectures for HVAC
+              * Building reports of design failures/improvements using computational modelling of vehicle aerodynamics 
+              * Research and development of novel mathematical models to assess human comfort in automobile cabins
     design:
       columns: '2'
   - block: accomplishments
