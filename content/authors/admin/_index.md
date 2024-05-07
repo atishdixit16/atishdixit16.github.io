@@ -59,13 +59,13 @@ skills:
         icon_pack: fab
       - name: Machine Learning and Statistics
         description: ''
-        percent: 80
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: Mathematical Modelling and Computing
         description: ''
-        percent: 85
-        icon: cpu-chip
+        percent: 100
+        icon: computer
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -73,7 +73,7 @@ skills:
     items:
       - name: Philosophy
         description: ''
-        percent: 80
+        percent: 70
         icon: landmark
         icon_pack: fas
       - name: Art
@@ -83,7 +83,7 @@ skills:
         icon_pack: fas
       - name: Martial Arts
         description: ''
-        percent: 80
+        percent: 60
         icon: user-minus
         icon_pack: fas
 
