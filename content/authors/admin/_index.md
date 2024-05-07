@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Associate in Machine Learning
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,7 +31,7 @@ bio: My research interests include machine learning, computing and mathematical 
 interests:
   - Artificial Intelligence
   - Multi-agent systems
-  - Deep Reinforcement leanring
+  - Deep Reinforcement learning
   - Computational Physics
 
 # Education to show in About widget
