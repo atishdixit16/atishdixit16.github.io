@@ -70,11 +70,10 @@ sections:
           date_start: '2023-01-11'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
               * Conducted advanced research in multi-agent robotics learning
               * Designed and implemented cutting-edge deep reinforcement learning methodologies
-        - title: PhD researcher
+        - title: PhD Researcher
           company: Heriot-Watt University
           company_url: 'https://www.hw.ac.uk/'
           company_logo: Heriot-Watt_University_logo
@@ -90,7 +89,6 @@ sections:
           date_start: '2017-03-01'
           date_end: '2018-09-01'
           description: |2-
-              Responsibilities include:
 
               * Mathematical modelling and back-end development of on-field applications
               * Analysis and process recommendation for on-field drilling process
@@ -103,7 +101,6 @@ sections:
           date_start: '2016-05-01'
           date_end: '2016-07-31'
           description: |2-
-              Responsibilities include:
 
               * Engaged in research and development within the domain of Graph Theory
               * Formulated a C++ object-oriented design to model graphs and implement the Christofides algorithm
@@ -115,7 +112,6 @@ sections:
           date_start: '2012-07-02'
           date_end: '2015-08-01'
           description: |2-
-              Responsibilities include:
 
               * Design recommendation and analysis of automobile system architectures for HVAC
               * Building reports of design failures/improvements using computational modelling of vehicle aerodynamics 
