@@ -30,8 +30,8 @@ bio: My research interests include machine learning, computing and mathematical 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Multi-agent systems
-  - Deep Reinforcement learning
+  - Multi-agent Robotic Systems 
+  - Deep Reinforcement Learning
   - Computational Physics
 
 # Education to show in About widget
