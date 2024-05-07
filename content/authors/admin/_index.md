@@ -75,7 +75,7 @@ skills:
         description: ''
         percent: 80
         icon: building-library
-        icon_pack: fas
+        icon_pack: hero
       - name: Art
         description: ''
         percent: 100
