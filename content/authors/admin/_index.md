@@ -74,8 +74,8 @@ skills:
       - name: Philosophy
         description: ''
         percent: 80
-        icon: academicons/archive
-        icon_pack: fas
+        icon: archive
+        icon_pack: academicons
       - name: Art
         description: ''
         percent: 100
