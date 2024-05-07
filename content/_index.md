@@ -131,14 +131,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.ros.hw.ac.uk/handle/10399/4801
           date_end: ''
           date_start: '2021-01-25'
           description: ''
           # icon: coursera
           icon: Heriot-Watt_University_logo
           organization: Heriot-Watt University
-          organization_url: https://www.coursera.org
+          organization_url: https://www.hw.ac.uk/
           title: Novel research work in AI application to on-field reservoir management 
           url: ''
         - certificate_url: https://www.edx.org
