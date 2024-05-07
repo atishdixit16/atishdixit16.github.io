@@ -62,29 +62,29 @@ skills:
         percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: Mathematical Modelling and Simulations
+      - name: Mathematical Modelling and Computing
         description: ''
         percent: 85
-        icon: database
+        icon: cpu-chip
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Boxing
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Painting
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Philosophy
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: building-library
+        icon_pack: fas
+      - name: Art
+        description: ''
+        percent: 100
+        icon: paint-brush
+        icon_pack: fas
+      - name: Martial Arts
+        description: ''
+        percent: 80
+        icon: user-minus
         icon_pack: fas
 
 # Social/Academic Networking
