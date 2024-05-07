@@ -55,7 +55,7 @@ skills:
       - name: Programming
         description: ''
         percent: 70
-        icon: laptop-code
+        icon: python
         icon_pack: fab
       - name: Machine Learning and Statistics
         description: ''
