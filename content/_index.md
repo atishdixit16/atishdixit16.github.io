@@ -135,10 +135,11 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          icon: coursera
-          organization: Coursera
+          # icon: coursera
+          company_logo: Heriot-Watt_University_logo
+          organization: Heriot-Watt University
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Novel research work in AI application to on-field reservoir management 
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
