@@ -75,7 +75,7 @@ skills:
         description: ''
         percent: 80
         icon: archive
-        icon_pack: academicons
+        icon_pack: fas
       - name: Art
         description: ''
         percent: 100
