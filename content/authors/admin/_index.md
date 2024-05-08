@@ -65,7 +65,7 @@ skills:
       - name: Mathematical Modelling and Computing
         description: ''
         percent: 100
-        icon: computer
+        icon: calculator
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -73,7 +73,7 @@ skills:
     items:
       - name: Philosophy
         description: ''
-        percent: 70
+        percent: 60
         icon: landmark
         icon_pack: fas
       - name: Art
@@ -83,8 +83,8 @@ skills:
         icon_pack: fas
       - name: Martial Arts
         description: ''
-        percent: 60
-        icon: user-minus
+        percent: 70
+        icon: hand-fist
         icon_pack: fas
 
 # Social/Academic Networking
