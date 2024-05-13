@@ -40,7 +40,7 @@ authors:
 #   - 教程
 # ---
 
-# ## Overview
+## Overview
 
 So, you've decided to take the plunge into the academic abyss, aka a PhD. Buckle up, buttercup, because you're in for a ride wilder than a rollercoaster designed by a mad scientist. As a survivor of this academic odyssey, let me sprinkle some wisdom, humor, and a sprinkle of memes on what to do and what not to do
 
@@ -56,7 +56,7 @@ So, you've decided to take the plunge into the academic abyss, aka a PhD. Buckle
 
 **Don't** Forget to celebrate the small victories. From that elusive breakthrough in your research to surviving another day without setting the lab on fire, every achievement deserves a victory dance.
 
-So, future PhD warriors, arm yourselves with humor, resilience, and a never-ending supply of coffee. And remember, in the end, it's not just about surviving the PhD—it's about thriving amidst the chaos. You've got this! 
+So, future PhD warriors, arm yourselves with humor, resilience, and a never-ending supply of coffee. And remember, in the end, it's not just about surviving the PhD—it's about thriving amidst the chaos. You've got this! 🚀 
 
 # [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
 
