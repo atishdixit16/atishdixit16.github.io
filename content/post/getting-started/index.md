@@ -45,11 +45,21 @@ import libr
 print('hello')
 ``` -->
 
-## Overview
+So, you've decided to take the plunge into the academic abyss, aka a PhD. Buckle up, buttercup, because you're in for a ride wilder than a rollercoaster designed by a mad scientist. As a survivor of this academic odyssey, let me sprinkle some wisdom, humor, and a sprinkle of memes on what to do and what not to do:
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Do: Make friends with your peers. They're your lifeline, your sanity saviors, and your partners in crime for all those midnight coffee runs.
+
+Don't: Compare yourself to others. Remember, everyone's journey is as unique as a unicorn in a sea of horses. Embrace your quirks and progress at your own pace.
+
+Do: Take breaks. Burnout is real, folks. Step away from the lab, put down that thesis, and treat yourself to some Netflix therapy or a spontaneous dance party in your pajamas.
+
+Don't: Procrastinate. Sure, binge-watching cat videos seems tempting, but remember, deadlines have a habit of sneaking up on you faster than you can say "PhD procrastination level: expert."
+
+Do: Embrace failure. It's not the end of the world; it's just another data point in your grand experiment called life. Laugh it off, learn from it, and then come back swinging like a scholarly ninja.
+
+Don't: Forget to celebrate the small victories. From that elusive breakthrough in your research to surviving another day without setting the lab on fire, every achievement deserves a victory dance.
+
+So, future PhD warriors, arm yourselves with humor, resilience, and a never-ending supply of coffee. And remember, in the end, it's not just about surviving the PhD—it's about thriving amidst the chaos. You've got this! 🚀 #PhDLife
 
 <!-- ## Overview
 
