@@ -1,9 +1,9 @@
 ---
 title: Tales from the PhD Trenches
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: "Tales from the PhD Trenches" is your friendly companion, offering humor and wisdom to navigate the academic jungle. It's your survival guide, written by a fellow traveler who's been through the highs, lows, and occasional existential crises of PhD life.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: "Tales from the PhD Trenches" is your friendly companion, offering humor and wisdom to navigate the academic jungle. It's your survival guide, written by a fellow traveler who's been through the highs, lows, and occasional existential crises of PhD life.
 
 # Link this post with a project
 projects: []
