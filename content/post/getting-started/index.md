@@ -1,9 +1,9 @@
 ---
 title: Tales from the PhD Trenches
-subtitle: "Tales from the PhD Trenches" is your friendly companion, offering humor and wisdom to navigate the academic jungle. It's your survival guide, written by a fellow traveler who's been through the highs, lows, and occasional existential crises of PhD life.
+subtitle: 'Tales from the PhD Trenches' is your friendly companion, offering humor and wisdom to navigate the academic jungle. It is your survival guide, written by a fellow traveler who's been through the highs, lows, and occasional existential crises of PhD life.
 
 # Summary for listings and search engines
-summary: "Tales from the PhD Trenches" is your friendly companion, offering humor and wisdom to navigate the academic jungle. It's your survival guide, written by a fellow traveler who's been through the highs, lows, and occasional existential crises of PhD life.
+summary: 'Tales from the PhD Trenches' is your friendly companion, offering humor and wisdom to navigate the academic jungle. It is your survival guide, written by a fellow traveler who's been through the highs, lows, and occasional existential crises of PhD life.
 
 # Link this post with a project
 projects: []
