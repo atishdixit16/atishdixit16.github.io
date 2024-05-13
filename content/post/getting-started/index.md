@@ -9,10 +9,10 @@ summary: Tales from the PhD Trenches is your friendly companion, offering humor 
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2022-12-13T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2022-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -31,9 +31,9 @@ image:
 authors:
   - admin
 
-tags:
-  - Academic
-  - 开源
+# tags:
+#   - Academic
+#   - 开源
 
 # categories:
 #   - Demo
