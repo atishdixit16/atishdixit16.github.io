@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**LMU**](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/lsgn/meme-contest/index.html)'
   focal_point: ''
   placement: 2
   preview_only: false
