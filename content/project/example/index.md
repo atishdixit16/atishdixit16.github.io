@@ -1,6 +1,6 @@
 ---
 title: Multilevel Deep Reinforcement Learning Framework
-summary: An example of using the in-built project page.
+summary: A statistical framework to reduce computational complexity of RL applications in computational physics based environments
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
