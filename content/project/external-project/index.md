@@ -2,7 +2,7 @@
 title: Deep Reinforcement Learning for Reservoir Management
 summary: An RL-based approach to learn the optimal well control policies used to improve the production efficiency in reservoir management
 tags:
-  - Demo
+  - Deep Learning
 date: "2022-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
