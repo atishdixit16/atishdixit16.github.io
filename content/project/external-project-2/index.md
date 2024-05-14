@@ -1,12 +1,12 @@
 ---
-title: Deep Reinforcement Learning for Reservoir Management 2
-summary: An RL-based approach to learn the optimal well control policies used to improve the production efficiency in reservoir management
+title: Reinforcement Learning Sample Efficiency Improvement using Multi-Grid Approach in Computational Physics Problems
+summary: A multi-grid approach in deep reinforcement learning to improve sample efficiency in computational physics based applications
 tags:
   - Deep Learning
 date: "2023-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.sciencedirect.com/science/article/pii/S0952197622002469
+external_link: https://link.springer.com/article/10.1007/s11004-022-10033-x
 
 image:
   caption: RL architacture for learning the optimal well control
