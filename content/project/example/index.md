@@ -1,5 +1,5 @@
 ---
-title: Multilevel deep reinforcement learning
+title: Multilevel Deep Reinforcement Learning Framework
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
