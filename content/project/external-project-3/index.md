@@ -2,7 +2,7 @@
 title: Mathematical Modelling of Human Bioheat Transfer
 summary: A mathematical model of human bio-heat equation and assessment of human cumfort in various environment conditions
 tags:
-  - Deep Learning
+  - Other
 date: "2015-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
