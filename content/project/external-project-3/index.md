@@ -1,5 +1,5 @@
 ---
-title: Mathematical Modelling of Human-bioheat 
+title: Mathematical Modelling of Human Bioheat Transfer
 summary: A mathematical model of human bio-heat equation and assessment of human cumfort in various environment conditions
 tags:
   - Deep Learning
