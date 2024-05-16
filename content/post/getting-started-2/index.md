@@ -3,8 +3,7 @@ title: When Academia Meets Industry
 subtitle: The Edinburgh SIAM-IMA student chapter organized a week-long event where academia and industry converged to tackle real-world challenges, showcasing the symbiotic relationship between theoretical knowledge and practical application. Graduate students immersed themselves in industrial settings, applying mathematics to solve complex problems, leading to transformative solutions and emphasizing the importance of interdisciplinary collaboration in driving innovation.
 
 # Summary for listings and search engines
-summary: 
-The Edinburgh SIAM-IMA student chapter organized a week-long event where academia and industry converged to tackle real-world challenges, showcasing the symbiotic relationship between theoretical knowledge and practical application. Graduate students immersed themselves in industrial settings, applying mathematics to solve complex problems, leading to transformative solutions and emphasizing the importance of interdisciplinary collaboration in driving innovation.
+summary: The Edinburgh SIAM-IMA student chapter organized a week-long event where academia and industry converged to tackle real-world challenges, showcasing the symbiotic relationship between theoretical knowledge and practical application. Graduate students immersed themselves in industrial settings, applying mathematics to solve complex problems, leading to transformative solutions and emphasizing the importance of interdisciplinary collaboration in driving innovation.
 
 # Link this post with a project
 projects: []
