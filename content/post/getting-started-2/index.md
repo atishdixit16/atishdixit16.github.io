@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**LMU**](https://www.responsibleresearch.graduatecenter.uni-muenchen.de/lsgn/meme-contest/index.html)'
+  caption: 'Image credit: [meme generator](https://imgflip.com/memegenerator)'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -44,6 +44,8 @@ authors:
 import libr
 print('hello')
 ``` -->
+
+Imagine academia as the devoted spouse, diligently pursuing knowledge day in and day out, while industry plays the role of the tempting mistress, luring away with promises of practical application. It’s a classic love triangle, except in this case, the only cheating going on is between a PhD and real-world challenges. But fear not, dear reader, for in the realm of mathematics, this affair isn’t frowned upon—it's celebrated!
 
 In a week-long endeavor hosted by the Edinburgh SIAM-IMA student chapter, the boundaries between academia and industry blurred as mathematical minds converged to tackle real-world challenges. Supported by esteemed institutions like the Maxwell Institute for Mathematical Sciences and the Society for Industrial and Applied Mathematics (SIAM), this event exemplified the symbiotic relationship between theoretical knowledge and practical application.
 
