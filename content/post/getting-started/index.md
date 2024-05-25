@@ -1,9 +1,9 @@
 ---
 title: Tales from the PhD Trenches
-subtitle: Tales from the PhD Trenches is your friendly companion, offering humor and wisdom to navigate the academic jungle. It is your survival guide, written by a fellow traveler who has been through the highs, lows, and occasional existential crises of PhD life.
+subtitle: Navigating a PhD is like riding a wild rollercoaster, so embrace humor, resilience, and camaraderie to thrive amidst the chaos. Celebrate small victories, avoid procrastination, and remember that failure is just another step in your grand experiment.  
 
 # Summary for listings and search engines
-summary: Tales from the PhD Trenches is your friendly companion, offering humor and wisdom to navigate the academic jungle. It is your survival guide, written by a fellow traveler who has been through the highs, lows, and occasional existential crises of PhD life.
+summary: Navigating a PhD is like riding a wild rollercoaster, so embrace humor, resilience, and camaraderie to thrive amidst the chaos. Celebrate small victories, avoid procrastination, and remember that failure is just another step in your grand experiment.
 
 # Link this post with a project
 projects: []
@@ -45,21 +45,27 @@ import libr
 print('hello')
 ``` -->
 
-So, you've decided to take the plunge into the academic abyss, aka a PhD. Buckle up, buttercup, because you're in for a ride wilder than a rollercoaster designed by a mad scientist. As a survivor of this academic odyssey, let me sprinkle some wisdom, humor, and a sprinkle of memes on what to do and what not to do:
+### Tales from the PhD Trenches
 
-**Do:** Make friends with your peers. They're your lifeline, your sanity saviors, and your partners in crime for all those midnight coffee runs.
+#### Atish Dixit
+#### Dec 13, 2022  |  2 min read
+*Image credit: LMU*
 
-**Don't:** Compare yourself to others. Remember, everyone's journey is as unique as a unicorn in a sea of horses. Embrace your quirks and progress at your own pace.
+So, you’ve decided to plunge into the depths of academia, embarking on that wild journey known as a PhD. Fasten your seatbelt, because you’re in for an experience crazier than a rollercoaster engineered by a physicist with a penchant for practical jokes. As a fellow traveler who has navigated the highs, lows, and occasional existential crises of PhD life, let me share some insights, wisdom, and a dash of humor to help you along the way.
 
-**Do:** Take breaks. Burnout is real, folks. Step away from the lab, put down that thesis, and treat yourself to some Netflix therapy or a spontaneous dance party in your pajamas.
+**Do:** Make friends with your peers. They’re your lifeline, your sanity saviors, and your partners in crime for those midnight coffee runs. In the grand experiment of life, a little camaraderie goes a long way.
 
-**Don't:** Procrastinate. Sure, binge-watching cat videos seems tempting, but remember, deadlines have a habit of sneaking up on you faster than you can say "PhD procrastination level: expert."
+**Don’t:** Compare yourself to others. Every PhD journey is unique, like the intricate paths of particles in a quantum field. Embrace your own quirks and progress at your own pace. After all, the beauty of science lies in its diversity.
 
-**Do:** Embrace failure. It's not the end of the world; it's just another data point in your grand experiment called life. Laugh it off, learn from it, and then come back swinging like a scholarly ninja.
+**Do:** Take breaks. Burnout is real, folks. Step away from the lab, put down that thesis, and indulge in some Netflix therapy or a spontaneous dance party in your pajamas. Even Einstein needed to play the violin now and then.
 
-**Don't:** Forget to celebrate the small victories. From that elusive breakthrough in your research to surviving another day without setting the lab on fire, every achievement deserves a victory dance.
+**Don’t:** Procrastinate. Sure, binge-watching cat videos is tempting, but remember, deadlines have a nasty habit of sneaking up on you faster than you can say “PhD procrastination level: expert.” Stay on top of your work, and you'll avoid unnecessary panic.
 
-So, future PhD warriors, arm yourselves with humor, resilience, and a never-ending supply of coffee. And remember, in the end, it's not just about surviving the PhD—it's about thriving amidst the chaos. You've got this! 🚀 #PhDLife
+**Do:** Embrace failure. In science, failure isn’t the end—it’s just another data point in your grand experiment. Laugh it off, learn from it, and then come back swinging like a scholarly ninja. Remember, even the greatest discoveries often start with mistakes.
+
+**Don’t:** Forget to celebrate the small victories. Whether it’s that elusive breakthrough in your research or simply surviving another day without setting the lab on fire, every achievement deserves a victory dance. Savor those moments—they're the fuel that keeps you going.
+
+So, future PhD warriors, equip yourselves with humor, resilience, and an endless supply of coffee. Remember, it’s not just about surviving the PhD—it’s about thriving amidst the chaos. You’ve got this! 🚀 #PhDLife
 
 <!-- ## Overview
 
