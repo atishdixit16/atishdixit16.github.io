@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: Reproducibility in Deep Reinforcement Learning Literature
 date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+summary: A post on importance of reproducibility in reinforcement learning literature
 ---
 
 
@@ -11,7 +11,7 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ```
 
     
-![png](output_1_0.png)
+![png](meme.png)
     
 
 ```python
