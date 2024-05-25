@@ -67,7 +67,7 @@ sections:
           company_url: 'https://agents.inf.ed.ac.uk/'
           company_logo: University_of_Edinburgh_logo
           location: Edinburgh, UK
-          date_start: '2023-01-11'
+          date_start: '2023-10-11'
           date_end: ''
           description: |2-
 
