@@ -4,7 +4,7 @@ date: '2023-11-04'
 summary: A post on importance of reproducibility in reinforcement learning literature
 ---
     
-![png](meme.png)
+![png](example.png)
     
 
 ```python
