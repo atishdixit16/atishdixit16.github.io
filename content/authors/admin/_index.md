@@ -84,7 +84,7 @@ skills:
       - name: Boxing
         description: ''
         percent: 70
-        icon: hand-fist
+        icon: boxing-glove
         icon_pack: fas
 
 # Social/Academic Networking
