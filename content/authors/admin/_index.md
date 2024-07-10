@@ -73,12 +73,12 @@ skills:
     items:
       - name: Study of Vedanta
         description: ''
-        percent: 60
+        percent: 70
         icon: om
         icon_pack: fas
       - name: Painting
         description: ''
-        percent: 100
+        percent: 60
         icon: paint-brush
         icon_pack: fas
       - name: Boxing
