@@ -71,10 +71,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Study of Philosophy
+      - name: Study of Vedanta
         description: ''
         percent: 60
-        icon: landmark
+        icon: om
         icon_pack: fas
       - name: Painting
         description: ''
