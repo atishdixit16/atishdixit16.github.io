@@ -71,17 +71,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Philosophy
+      - name: Study of Philosophy
         description: ''
         percent: 60
         icon: landmark
         icon_pack: fas
-      - name: Art
+      - name: Painting
         description: ''
         percent: 100
         icon: paint-brush
         icon_pack: fas
-      - name: Martial Arts
+      - name: Boxing
         description: ''
         percent: 70
         icon: hand-fist
