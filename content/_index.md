@@ -69,10 +69,7 @@ sections:
           location: Edinburgh, UK
           date_start: '2023-10-11'
           date_end: ''
-          description: |2-
-
-              * Conducted advanced research in multi-agent robotics learning
-              * Designed and implemented cutting-edge deep reinforcement learning methodologies
+          description: State-of-the-art research in multi-agent reinforcement learning
         - title: PhD Researcher
           company: Heriot-Watt University
           company_url: 'https://www.hw.ac.uk/'
@@ -80,7 +77,7 @@ sections:
           location: Edinburgh, UK
           date_start: '2018-11-01'
           date_end: '2023-03-31'
-          description: Building deep reinforcemnt learning research methods to solve well control problem in reservoir management
+          description: Research in deep reinforcemnt learning methods to solve opimal control problems in computational physics
         - title: Computational Engineer
           company: ExxonMobil
           company_url: 'https://corporate.exxonmobil.com/'
