@@ -4,7 +4,7 @@ date: '2024-02-04'
 summary: A post on importance of reproducibility in reinforcement learning literature using example of my paper on multilevel PPO
 ---
 
-It's surprising to see how many research papers in reinforcement learning (RL) lack reproducibility in their implementation. Alarmingly, this issue persists even in high-ranking machine learning journals, which are often essential for securing positions in leading AI companies. This problem seems to stem from the immense pressure in academia to publish frequently, as it is a key factor for career advancement. However, this practice has significant negative consequences:
+It's surprising to see how many research papers in reinforcement learning (RL) lack reproducibility in their implementation. Alarmingly, this issue persists even in high-ranking machine learning journals, which are often essential for securing positions in leading AI research labs. This problem seems to stem from the immense pressure in academia to publish frequently, as it is a key factor for career advancement. However, this practice has significant negative consequences:
 
 1. **Reduced Reliability**: It undermines the credibility of prestigious journals.
 2. **Research Confusion**: It leads to confusion among researchers who rely on these papers as a foundation for their work.
