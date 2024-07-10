@@ -54,7 +54,7 @@ skills:
     items:
       - name: Programming
         description: ''
-        percent: 70
+        percent: 80
         icon: python
         icon_pack: fab
       - name: Machine Learning and Statistics
@@ -64,7 +64,7 @@ skills:
         icon_pack: fas
       - name: Mathematical Modelling and Computing
         description: ''
-        percent: 100
+        percent: 90
         icon: calculator
         icon_pack: fas
   - name: Hobbies
