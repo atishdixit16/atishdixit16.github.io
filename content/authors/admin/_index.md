@@ -115,5 +115,5 @@ social:
 highlight_name: true
 ---
 
-Atish Dixit is a seasoned researcher specializing in reinforcement learning, mathematical modeling, and simulations. With a strong background in applied mathematics and statistics along with extensive experience in academia and industry, he brings expertise in leveraging AI and mathematical techniques to solve complex problems.
+Atish Dixit is a Research Associate  at the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/), University of Edinburgh, working with Assoc. Prof. Stefano Albrecht. He is a seasoned researcher specializing in reinforcement learning, mathematical modeling, and simulations. With a strong background in applied mathematics and statistics along with extensive experience in academia and industry, he brings expertise in leveraging AI and mathematical techniques to solve complex problems.
 {style="text-align: justify;"}
