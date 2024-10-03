@@ -45,16 +45,32 @@ import libr
 print('hello')
 ``` -->
 
-Advaita Vedanta, a profound school of Hindu philosophy, offers a non-dualistic perspective on existence. The term "Advaita" means "not two," highlighting the core belief that the individual soul (Atman) and the ultimate reality (Brahman) are one and the same. This philosophy asserts that the apparent separation we experience in daily life is an illusion (Maya) and that true enlightenment comes from realizing the unity of all existence.
 
-At the heart of Advaita Vedanta is the concept of self-realization. According to this philosophy, ignorance of our true nature leads to suffering and a sense of incompleteness. By attaining knowledge (Jnana) and experiencing the oneness of Atman and Brahman, individuals can transcend this ignorance and achieve liberation (Moksha). This realization brings profound inner peace and the understanding that all beings are interconnected.
+**Understanding Advaita Vedanta: The Philosophy of Oneness**
 
-Meditation plays a crucial role in the practice of Advaita Vedanta. It serves as a powerful tool for transcending the illusion of separateness and accessing deeper layers of consciousness. Through meditation, practitioners can quiet the mind, reduce distractions, and focus inwardly. This inward focus helps to dismantle the false identification with the ego and the material world, gradually revealing the true self.
+Advaita Vedanta, a profound school of Indian philosophy, centers around the realization of non-duality (Advaita) between the individual soul (jiva) and the ultimate reality (Brahman). Rooted in the teachings of the Upanishads, it emphasizes self-knowledge as the path to liberation (moksha). However, to comprehend its depth, one must first distinguish between traditional Vedanta and modern interpretations.
 
-One of the primary forms of meditation in Advaita Vedanta is Jnana Yoga, the path of knowledge. This meditative practice involves deep contemplation and self-inquiry, often guided by questions like "Who am I?" and "What is the nature of reality?" By persistently reflecting on these questions, meditators can peel away the layers of illusion and uncover their true nature.
+### What is Vedanta?
 
-Another significant meditation practice is Dhyana, which involves sustained, focused attention on a single point or concept, such as the breath, a mantra, or the idea of unity itself. Dhyana helps to develop concentration and mindfulness, creating a mental state conducive to self-realization.
+Vedanta refers to the knowledge contained in the Upanishads, the final portion of the Vedas, India's ancient scriptures. It explores the most desirable end for human beings (parama purushartha), which is moksha — liberation from limitations, sorrow, and the cycle of birth and death (samsara). The Upanishads unfold the knowledge that our true self (Atman) is identical to Brahman, the unchanging, eternal reality.
 
-The benefits of meditation extend beyond spiritual enlightenment. Regular meditation practice can lead to a calmer, more focused mind, reduced stress levels, and improved emotional well-being. It fosters a sense of inner peace and balance, allowing individuals to navigate the challenges of life with greater ease and resilience.
+### The Core Teaching: "Tat Tvam Asi"
 
-Advaita Vedanta offers a profound understanding of our true nature, emphasizing the oneness of all existence. Meditation, as an essential practice within this philosophy, guides individuals toward self-realization and liberation. By integrating meditation into our daily lives, we experience not only spiritual growth but also enhanced mental and emotional well-being. This journey inward uncovers the profound interconnectedness of all life and the enduring peace that comes with this realization.
+The essence of Advaita Vedanta can be captured in the simple but profound phrase from the Chandogya Upanishad: "Tat Tvam Asi" or "That Thou Art." This means that the individual self (Atman) is not separate from Brahman, the all-pervading reality. Realizing this truth leads to freedom from the limitations of individuality and duality.
+
+### Advaita Vedanta and Schools of Thought
+
+Contrary to modern interpretations, Advaita Vedanta is not a school of thought in the conventional sense. A school of thought involves speculation, debates, and contentions that are subject to verification through perception or inference. Vedanta, however, is regarded as a "pramāṇa" or a valid means of knowledge, revealing the self through scriptural insights. It doesn't present a theory for intellectual debate but a truth that one must realize through self-inquiry.
+
+This is why Vedanta cannot be reduced to mere philosophy or be grouped with other schools like Samkhya or Vaisheshika. Its subject matter—Brahman and the self—is beyond the reach of the senses and the mind. As the Upanishads declare, Brahman is "not objectified by the mind, yet the mind knows because of it."
+
+### The Role of the Guru
+
+In Advaita Vedanta, the role of the teacher (guru) is crucial. The guru unfolds the teachings of the Upanishads using specific methods (prakriyas) to help the student grasp the non-dual reality. Unlike modern spiritual movements that promise experiences or altered states of consciousness, Advaita Vedanta is about understanding one’s true nature. There is no need for mystical practices to "experience" the self, because the self is ever-present, self-evident, and the essence of awareness.
+
+### Advaita Vedanta and Self-Knowledge
+
+The central teaching of Advaita Vedanta is that the self is already free. Moksha is not something to be attained but something to be recognized. The limitations we experience are due to ignorance (avidya) of our true nature. Through Vedantic study and inquiry, one discovers that the self is pure awareness (chit), beyond the body, mind, and senses. This knowledge dispels ignorance, leading to the realization that "I am Brahman" (Aham Brahmasmi).
+
+
+Advaita Vedanta offers a transformative vision: the individual conciousness and the ultimate reality are one. The journey it prescribes is not of accumulating new experiences or gaining external knowledge, but of uncovering the eternal truth within. By embracing this vision, one transcends the duality of the world and realizes the oneness of all existence giving an objective basis for equality and justice. 
