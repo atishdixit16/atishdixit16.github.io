@@ -64,10 +64,10 @@ sections:
       items:
         - title: Research Fellow
           company: University of Edinburgh
-          company_url: 'https://wwww.april.ac.uk/'
+          company_url: 'https://www.april.ac.uk/'
           company_logo: University_of_Edinburgh_logo
           location: Edinburgh, UK
-          date_start: '2024-04-12'
+          date_start: '2024-12-04'
           date_end: ''
           description: AI-driven materials discovery for electronic materials 
         - title: Research Associate
