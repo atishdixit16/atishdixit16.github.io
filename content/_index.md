@@ -62,13 +62,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Fellow
+          company: University of Edinburgh
+          company_url: 'https://wwww.april.ac.uk/'
+          company_logo: University_of_Edinburgh_logo
+          location: Edinburgh, UK
+          date_start: '2024-04-12'
+          date_end: ''
+          description: AI-driven materials discovery for electronic materials 
         - title: Research Associate
           company: University of Edinburgh
           company_url: 'https://agents.inf.ed.ac.uk/'
           company_logo: University_of_Edinburgh_logo
           location: Edinburgh, UK
           date_start: '2023-10-11'
-          date_end: ''
+          date_end: '2024-10-11'
           description: State-of-the-art research in multi-agent reinforcement learning
         - title: PhD Researcher
           company: Heriot-Watt University
