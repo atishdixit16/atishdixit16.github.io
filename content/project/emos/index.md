@@ -7,7 +7,7 @@ tags:
 date: '2026-09-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: https://aprilaihub.github.io/EMOS/
 
 image:
   caption: Electronic Materials Ontology System
