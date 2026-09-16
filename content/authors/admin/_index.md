@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,6 +30,7 @@ bio: My research interests include machine learning, computing and mathematical 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Materials Discovery
   - Multi-agent Robotic Systems 
   - Deep Reinforcement Learning
   - Computational Physics
@@ -115,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Atish Dixit is a Research Fellow  at the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/), University of Edinburgh, working with Assoc. Prof. Stefano Albrecht. He is a seasoned researcher specializing in machine learning, mathematical modeling, and simulations. With a strong background in applied mathematics and statistics along with extensive experience in academia and industry, he brings expertise in leveraging AI and mathematical techniques to solve complex problems.
+Atish Dixit is a Research Fellow  at the [APRIL AI hub](https://www.april.ac.uk/), University of Edinburgh, working with [Prof. Themis Prodromakis](https://en.wikipedia.org/wiki/Themis_Prodromakis), [Prof. Jacqui Cole](https://en.wikipedia.org/wiki/Jacqui_Cole) and [Prof. Subramanian Ramamoorthy](https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html). He is a seasoned researcher specializing in machine learning, mathematical modeling, and simulations. With a strong background in applied mathematics and statistics along with extensive experience in academia and industry, he brings expertise in leveraging AI and mathematical techniques to solve complex problems.
 {style="text-align: justify;"}
