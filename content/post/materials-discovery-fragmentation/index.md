@@ -9,7 +9,7 @@ summary: Digital materials discovery has never had more powerful tools, yet disc
 projects: []
 
 # Date published
-date: '2026-09-16T00:00:00Z'
+date: '2025-09-16T00:00:00Z'
 
 # Date updated
 lastmod: '2026-09-16T00:00:00Z'
