@@ -116,7 +116,10 @@ social:
 highlight_name: true
 ---
 
+<div style="text-align: justify; font-size: 1rem;">
+
 Atish Dixit is a Research Fellow at the [APRIL AI hub](https://www.april.ac.uk/), University of Edinburgh, developing AI-driven approaches for discovering and characterising electronic materials (with [Prof. Themis Prodromakis](https://en.wikipedia.org/wiki/Themis_Prodromakis), [Prof. Jacqui Cole](https://en.wikipedia.org/wiki/Jacqui_Cole), and [Prof. Subramanian Ramamoorthy](https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html)). His work brings together machine learning, mathematical modelling, simulation, and experimental insight to build more interoperable and trustworthy scientific-discovery workflows.
 
 His research spans deep and multi-agent reinforcement learning, robust optimal control, computational physics, and materials informatics. He is particularly interested in making AI research useful beyond the model itself: reproducible methods, transparent evaluation, and collaborations that connect data, physical systems, and real-world decisions. Before academia, Atish worked in engineering roles across energy and automotive applications, grounding his research in practical modelling problems.
-{style="text-align: justify;"}
+
+</div>
